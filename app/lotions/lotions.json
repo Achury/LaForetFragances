@@ -1,0 +1,254 @@
+[
+    {
+        "brand": "chanel", 
+        "id": "bleu-chanel", 
+        "imageUrl": "img/lotions/CHANEL/BLEUCHANEL100ML.jpg", 
+        "name": "BLEU CHANEL 100ML", 
+        "snippet": "Para el hombre que desafía la convención, fragancia fresca, profundamente sensual."
+    }, 
+    {
+        "brand": "chanel", 
+        "id": "chance-chanel", 
+        "imageUrl": "img/lotions/CHANEL/CHANCEEAUFRAICHE.jpg", 
+        "name": "CHANCE EAU FRAICHE", 
+        "snippet": "CHANCE Eau Fraiche, una encarnación vibrante de la fragancia inesperada, ahora adquiere una frescura chispeante."
+    }, 
+    {
+        "brand": "bvlgari", 
+        "id": "bvl-puor-homme", 
+        "imageUrl": "img/lotions/BVLGARI/BVLGARIAQVAPOURHOMME.jpg", 
+        "name": "BVLGARI AQUA POUR HOMME", 
+        "snippet": "BLV pour Homme es fresco, perfume amaderado picante."
+    }, 
+    {
+        "brand": "adidas", 
+        "id": "fruity-rhythm", 
+        "imageUrl": "img/lotions/ADIDAS/FRUITY RHYTHM.jpg", 
+        "name": "Fruity Rhythm", 
+        "snippet": "Spray energy in your life with Fruity Rhythm, a sweet fruity floral fragrance enhancing a feminine and cool attitude."
+    }, 
+    {
+        "brand": "clinique", 
+        "id": "happy-for-men", 
+        "imageUrl": "img/lotions/CLINIQUE/HAPPYFORMEN3.jpg", 
+        "name": "HAPPY FOR MEN", 
+        "snippet": "Un golpe de cítricos. Un aroma refrescante para los hombres. Llévela y se feliz."
+    }, 
+    {
+        "brand": "adidas", 
+        "id": "intense-touch", 
+        "imageUrl": "img/lotions/ADIDAS/INTENSE TOUCH 100ML NEW BOTTLE.jpg", 
+        "name": "INTENSE TOUCH 100ML NEW BOTTLE", 
+        "snippet": "TEl lanzamiento reciente de 2011 e inspirado en el famoso atleta Zinedine Zidane, esta fragancia celebra fuerza, poder, valor, determinación, estilo único y su carisma. "
+    }, 
+    {
+        "brand": "chanel", 
+        "id": "coco-chanel", 
+        "imageUrl": "img/lotions/CHANEL/COCOMADEMOISELLE100ML.jpg", 
+        "name": "COCO MADEMOISELLE 100ML", 
+        "snippet": "Sexy, fragancia oriental fresca recuerda el espíritu indomable de la joven Coco Chanel."
+    }, 
+    {
+        "brand": "bvlgari", 
+        "id": "blv-women", 
+        "imageUrl": "img/lotions/BVLGARI/BLVWOMEN.jpg", 
+        "name": "BLV WOMEN", 
+        "snippet": "perfume que refleja el refinamiento, la pureza y la exquisitez."
+    }, 
+    {
+        "brand": "clinique", 
+        "id": "aromatics-elixir", 
+        "imageUrl": "img/lotions/CLINIQUE/AROMACTICSELIXIR100ML.jpg", 
+        "name": "AROMATICS ELIXIR 100ML", 
+        "snippet": "Una fragancia para las mujeres, el Aromatics Elixir Clinique personifica la nueva mujer de edad"
+    }, 
+    {
+        "brand": "diesel", 
+        "id": "loverdose", 
+        "imageUrl": "img/lotions/DIESEL/LOVERDOSE.jpg", 
+        "name": "LOVERDOSE", 
+        "snippet": "La fragancia se anuncia como un 'arma hermosa pero mortal de la seducción'"
+    }, 
+    {
+        "brand": "benetton", 
+        "id": "paraiso-infierno", 
+        "imageUrl": "img/lotions/BENETTON/PARAISOINFIERNO.jpg", 
+        "name": "PARAISO INFIERNO", 
+        "snippet": "una fragancia fresca y perfecta para usar en cualquier momento."
+    }, 
+    {
+        "brand": "bvlgari", 
+        "id": "aqua-amara", 
+        "imageUrl": "img/lotions/BVLGARI/AQVAAMARA.jpg", 
+        "name": "AQVA AMARA", 
+        "snippet": "Esta fragrancia es nueva. Aqva Amara se lanzó en 2014."
+    }, 
+    {
+        "brand": "bvlgari", 
+        "id": "bvl-man-extreme", 
+        "imageUrl": "img/lotions/BVLGARI/BVLGARIMANEXTREME.jpg", 
+        "name": "BVLGARI MAN EXTREME", 
+        "snippet": "profundo, atractivo e intenso."
+    }, 
+    {
+        "brand": "bvlgari", 
+        "id": "omnia-green-jade", 
+        "imageUrl": "img/lotions/BVLGARI/OMNIAGREENJADE.jpg", 
+        "name": "OMNIA GREEN JADE", 
+        "snippet": "Símbolo de la armonía y seducción, el Green Jade se apunta a la población de mujeres más jóvenes."
+    }, 
+    {
+        "brand": "hermes", 
+        "id": "terre-de-hermes", 
+        "imageUrl": "img/lotions/HERMES/TERREDEHERMES100ML2.jpg", 
+        "name": "TERRE D' HERMES 100ML", 
+        "snippet": "Terre d'Hermès es una metáfora de los materiales, una matriz que habla del territorio, así como la materia, la tierra y roots."
+    }, 
+    {
+        "brand": "creed", 
+        "id": "creed-silver-mountain", 
+        "imageUrl": "img/lotions/CREED/CREEDSILVERMOUNTAIN.jpg", 
+        "name": "CREED FOR MOUNTAIN", 
+        "snippet": "Silver Mountain Water de Creed es una fragancia aromática para los hombres."
+    }, 
+    {
+        "brand": "diesel",  
+        "id": "plus-plus-masculine", 
+        "imageUrl": "img/lotions/DIESEL/PLUSPLUSMASCULINE.jpg", 
+        "name": "PLUS PLUS MASCULINE", 
+        "snippet": "Plus Plus Masculine by Diesel es una fragancia Oriental Woody para los hombres."
+    }, 
+    {
+        "brand": "diesel", 
+        "id": "only-the-brave", 
+        "imageUrl": "img/lotions/DIESEL/ONLYTHEBRAVE2.jpg", 
+        "name": "ONLY THE BRAVE", 
+        "snippet": "Su composición presenta armonía de notas orientales leñosas que dejan una fuerte impresión"
+    }, 
+    {
+        "brand": "estee-lauder", 
+        "id": "pleasure", 
+        "imageUrl": "img/lotions/ESTEELAUDER/PLEASURES100ML.jpg", 
+        "name": "PLEASURE 100ML", 
+        "snippet": "El nuevo espíritu encantador de la fragancia. "
+    }, 
+    {
+        "brand": "bvlgari", 
+        "id": "omnia-coral", 
+        "imageUrl": "img/lotions/BVLGARI/OMNIACORAL.jpeg", 
+        "name": "OMNIA CORAL", 
+        "snippet": "Al igual que una pieza inolvidable de joyas de coral, que lo lleva evoca la esencia del verano."
+    },
+    {
+        "brand": "issey-miyake", 
+        "id": "issey-miyake-pour-homme", 
+        "imageUrl": "img/lotions/ISSEYMIYAKE/ISSEYMIYAKEPOURHOMME125.jpg", 
+        "name": "ISSEY MIYAKE POUR HOMME 125ML", 
+        "snippet": "Issey Miyake utiliza materiales muy inusuales y raros para crear perfumes que evocan la sensación de libertad y serenidad temporal."
+    },
+    {
+        "brand": "jesus-del-poso", 
+        "id": "halloween", 
+        "imageUrl": "img/lotions/JESUSDELPOZO/HALLOWEEN100ML2.jpg", 
+        "name": "HALLOWEEN 100ML", 
+        "snippet": "iris florales, tila, gardenia, mimosa, rosa, lavanda, una esencia femenina encantadora"
+    },
+        {
+        "brand": "jimmy-choo", 
+        "id": "jimmy-choo", 
+        "imageUrl": "img/lotions/JIMMYCHOO/JIMMYCHOO.jpg", 
+        "name": "JIMMY CHOO", 
+        "snippet": "Una expresión del aura de la mujer moderna, este olor a la vez transmite la fuerza y ​​la belleza, el glamour y la confianza."
+    },
+    {
+        "brand": "lacoste", 
+        "id": "eau-de-lacoste-noir", 
+        "imageUrl": "img/lotions/LACOSTE/EAUDELACOSTENOIR.jpg", 
+        "name": "EAU DE LACOSTE NOIR", 
+        "snippet": "El calor intenso y refrescante de Lacoste Noir Edición envuelve la piel en una fragancia elegante y audaz inspirada en las noches de verano."
+    },
+    {
+        "brand": "lacoste", 
+        "id": "eau-de-lacoste-sensuelle", 
+        "imageUrl": "img/lotions/LACOSTE/EAUDELACOSTESENSUELLE.jpg", 
+        "name": "EAU DE LACOSTE SENSUELLE", 
+        "snippet": "EAU DE LACOSTE SENSUELLE acentúa un aspecto elegante pero informal."
+    },
+    {
+        "brand": "lacoste", 
+        "id": "lacoste-red-homme", 
+        "imageUrl": "img/lotions/LACOSTE/LACOSTEREDHOMME2.jpg", 
+        "name": "LACOSTE RED HOMME", 
+        "snippet": "Red por Lacoste es una fragancia aromática Helecho de los men.Red se lanzó en 2004. La nariz detrás de esta fragancia es Annick Mena."
+    },
+    {
+        "brand": "lacoste", 
+        "id": "touch-of-pink", 
+        "imageUrl": "img/lotions/LACOSTE/TOUCHOFPINK.jpg", 
+        "name": "TOUCH OF PINK", 
+        "snippet": "Touch of Pink es la fragancia dirigida a la audiencia más joven. La fragancia es enérgica, femenino y alegre."
+    },
+    {
+        "brand": "thierry-mugler", 
+        "id": "angel-star", 
+        "imageUrl": "img/lotions/THIERRYMUGLER/ANGELSTAR50ML.jpg", 
+        "name": "ANGEL STAR 50ML", 
+        "snippet": "Un delicioso corazón de la fruta y la miel, que evocan recuerdos de la infancia hacen agua la boca."
+    },
+    {
+        "brand": "thierry-mugler", 
+        "id": "womanity", 
+        "imageUrl": "img/lotions/THIERRYMUGLER/WOMANITY80ML3.jpg", 
+        "name": "WOMANITY 80ML", 
+        "snippet": "Thierry Mugler está saludando feminidad. La nueva edición hará vibrar todos los fans de sus creaciones."
+    },
+    {
+        "brand": "tommy", 
+        "id": "tommy-girl", 
+        "imageUrl": "img/lotions/TOMMY/TOMMYGIRL100ML.jpg", 
+        "name": "TOMMY GIRL 100ML", 
+        "snippet": "Tommy Girl de Tommy Hilfiger es una fragancia floral afrutada para la mujer. Tommy Girl fue lanzado en 1996."
+    },
+    {
+        "brand": "tous", 
+        "id": "tous-touch", 
+        "imageUrl": "img/lotions/TOUS/TOUSTOUCH.jpg", 
+        "name": "TOUS TOUCH", 
+        "snippet": "Ráfaga floral fresca de fresia, lirio del valle, y el loto de la parte superior, deslice hacia un corazón floral más intenso."
+    },
+    {
+        "brand": "loewe", 
+        "id": "loewe-sport", 
+        "imageUrl": "img/lotions/LOEWE/LOEWESPORT100ML.jpg", 
+        "name": "LOEWE 7 SPORT 100ML", 
+        "snippet": "Loewe 7 Sport es una fragancia aromática que comienza con aromas cítricas de mandarina y yuzu. El corazón incluye la menta, hojas de tomate y neroli, establecido sobre la base del incienso y el ámbar"
+    },
+    {
+        "brand": "loewe", 
+        "id": "solo-loewe", 
+        "imageUrl": "img/lotions/LOEWE/SOLOLOEWE125ML3.jpg", 
+        "name": "SOLO LOEWE 125ML", 
+        "snippet": "Solo Loewe de Loewe es una fragancia oriental para los hombres."
+    },
+    {
+        "brand": "montblanc", 
+        "id": "montblanc-legend", 
+        "imageUrl": "img/lotions/MONTBLANC/MONTBLANCLEGEND.jpg", 
+        "name": "MONTBLANC LEGEND", 
+        "snippet": "La marca Mont Blanc presenta una nueva fragancia para hombres en abril de 2011."
+    },
+    {
+        "brand": "montblanc", 
+        "id": "montblanc-starwalker", 
+        "imageUrl": "img/lotions/MONTBLANC/MONTBLANCSTARWALKER2.jpg", 
+        "name": "MONTBLANC STARWALKER", 
+        "snippet": "Starwalker por Mont Blanc es una fragancia picante Woody para los hombres."
+    },
+    {
+        "brand": "montblanc", 
+        "id": "montblanc-legend-embleme", 
+        "imageUrl": "img/lotions/MONTBLANC/MONTBLANCLEGENDEMBLEME.jpg", 
+        "name": "MONTBLANC LEGEND EMBLEME", 
+        "snippet": "Mont Blanc lanza su nueva fragancia masculina emblema, junto con su versión del emblema modificado intenso en la primavera de 2014."
+    }
+]

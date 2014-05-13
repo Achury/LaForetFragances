@@ -1,0 +1,10 @@
+{
+    "description": "  Loverdose en un juego de palabras que pueden interpretar como 'Lover Dose' o 'Love Overdose'. La fragancia se anuncia como un 'arma hermosa pero mortal de la seducción', hecho para 'encender las pasiones como nunca antes'.", 
+    "id": "loverdose", 
+    "images": [
+        "img/lotions/DIESEL/LOVERDOSE.jpg",
+        "img/lotions/DIESEL/LOVERDOSE2.jpg",
+        "img/lotions/DIESEL/LOVERDOSE3.jpg"
+    ], 
+    "name": "LOVERDOSE"
+}

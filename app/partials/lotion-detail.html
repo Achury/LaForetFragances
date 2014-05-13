@@ -1,0 +1,17 @@
+<div class="lotion-images">
+  <img ng-src="{{img}}"
+       class="lotion"
+       ng-repeat="img in lotion.images"
+       ng-class="{active: mainImageUrl==img}">
+</div>
+
+<h1>{{lotion.name}}</h1>
+
+<p>{{lotion.description}}</p>
+
+<ul class="lotion-thumbs">
+  <li ng-repeat="img in lotion.images">
+    <img ng-src="{{img}}" ng-click="setImage(img)">
+  </li>
+</ul>
+

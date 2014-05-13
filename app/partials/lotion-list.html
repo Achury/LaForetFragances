@@ -1,0 +1,40 @@
+<div class="container-fluid">
+  <div class="row-fluid">
+    <div class="span2">
+      <!--Sidebar content-->
+      <div ng-controller="CarouselCtrl">
+        <div style="height: 305px">
+          <carousel interval="myInterval">
+            <slide ng-repeat="slide in slides" active="slide.active">
+              <img ng-src="{{slide.image}}" style="margin:auto;">
+              <div class="carousel-caption">
+                <h4>Slide {{$index}}</h4>
+                <p>{{slide.text}}</p>
+              </div>
+            </slide>
+          </carousel>
+        </div>  
+      </div>
+      Search: <input ng-model="query"></button>
+      Sort by:
+      <select ng-model="orderProp">
+        <option value="name">Alphabetical</option>
+        <option value="age">Newest</option>
+      </select>
+
+    </div>
+    <div class="span10">
+      <!--Body content-->
+      
+      <ul class="lotions">
+        <li ng-repeat="lotion in lotions | filter:query | orderBy:orderProp"
+            class="thumbnail lotion-listing">
+          <a href="#/lotions/{{lotion.id}}" class="thumb"><img ng-src="{{lotion.imageUrl}}"></a>
+          <a href="#/lotions/{{lotion.id}}">{{lotion.name}}</a>
+          <p>{{lotion.snippet}}</p>
+        </li>
+      </ul>
+
+    </div>
+  </div>
+</div>

@@ -1,0 +1,8 @@
+logs/*
+!.gitkeep
+node_modules/
+tmp
+.idea
+.DS_Store
+angular-lotioncat-snapshots
+bower_components/
